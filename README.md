@@ -1,4 +1,4 @@
-# Project: Movie Revenue Analysis Using Excel (2012-2016)
+# Project: Movie Revenue Analysis Using Excel
 
 # Objective: Analyzed movie industry data across a timeframe of 5 years to identify box office performance, profitability, and key factors such as directors, actors and genres.
 
