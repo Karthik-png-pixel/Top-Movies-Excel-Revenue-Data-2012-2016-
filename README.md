@@ -6,7 +6,21 @@
 
 ## Tools Used: Google Sheets, Pivot Tables, Data Visualization (Bar Charts)
 
-<img width="1710" height="1107" al<img width="1710" height="1107" alt="Average Box Office By Genre" src="https://github.com/user-attachments/assets/58227c71-a477-416b-b3fc-44e1f1184f62" />
-<img width="1710" height="1107" alt="Average Budget by Cast Member" src="https://github.com/user-attachments/assets/14139ebd-55b7-4bf1-ac7d-31f7a1545c9a" />
+<img width="1710" height="1107" alt="Average Budget by Director" src="https://github.com/user-attachments/assets/8fa1f225-26ab-4b67-a6c9-6b2d2e926e59" />
 
-<img width="1710" height="1107" alt="Screenshot 2026-03-23 at 6 59 56 PM" src="https://github.com/user-attachments/assets/3d3a4ef2-71e0-4a4a-99ca-4f462b8a69b3" />
+### Analysis: Construcuted a bar chart to show average budget per movie based on the director for those particular movies. Ordered from lowest budget to highest, the graph shows 4 directors where the budget for production was at least $30 million and the 4 lowest budget directors were $5 million or less.
+
+<img width="1710" height="1107" alt="Average Budget by Cast Member" src="https://github.com/user-attachments/assets/27cac58a-29d0-4c05-a5a8-74006da8f162" />
+
+### Analysis: The highest earning cast members were from movies where the budget was $15 million while the lowest budget movie for the selected list of actors was at $4 million.
+
+<img width="1710" height="1107" alt="Average Box Office By Genre" src="https://github.com/user-attachments/assets/218ec652-97f0-4e74-af7c-55376adb6abe" />
+
+### Analysis: Categorized Box Office Revenue into Genre specific categories to identify which ones had the highest profitability. Adventure was found to be the most popular genre generating nearly $309 million during the 5 year period from 2012-2016. 
+
+<img width="1710" height="1107" alt="Pivot Tables Box Office Revenue" src="https://github.com/user-attachments/assets/e6560776-e2db-4eed-b57e-a5b6bc987206" />
+
+### Analysis: Pivot tables used to examine and count the number movies with low budgets (under $10M on average) across years to determine which years had the least overall Box Office Revenue 
+
+### Conclusion: 2015 was found to have the most low budget films (20 to be precise) which could point to many reasons such as the movie industry being on a budget constraint, contributing to the fact that in the pivot table above, the Average Box Office Revenue for 2015 was the lowest among the years at $109 million.
+
